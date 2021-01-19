@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+footer {
+  background-color: aqua;
+  margin-top: 100px;
+}
+.registerForm {
+  width: 50%;
+  margin: 20px auto;
+  height: 100px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+}
+.registerForm fieldset {
+  margin: 10px 10px;
+  height: max-content;
+  text-align: center;
+}
+.registerForm button {
+  /* margin: 20px auto; */
+
+  height: 10px;
+  padding: 10px 20px 20px;
+  text-align: center;
+  background-color: aqua;
+  border-radius: 10px;
+  margin-bottom: 60px;
+}
+/* .register fieldset legend {
+  margin: 10%;
+  height: fit-content;
+  box-sizing: border-box;
+  background-color: aquamarine;
+} */
